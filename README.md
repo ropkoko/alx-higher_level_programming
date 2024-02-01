@@ -1,1 +1,1 @@
-phython project
+python project
